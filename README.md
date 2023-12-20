@@ -6,12 +6,12 @@ ___
 
 * Create a [Laravel](https://github.com/laravel/framework) app (monolith style but still scalable) that can control [FreeSWITCH](https://github.com/signalwire/freeswitch)
 * Create a fully featured RESTful API to allow for 100% automation
-* Get FreeSWITCH fully working on [Kubernetes](https://github.com/kubernetes/kubernetes)
-* Get FreeSWITCH dependencies fully working on Kubernetes
+* Get FreeSWITCH and dependencies fully working on [Kubernetes](https://github.com/kubernetes/kubernetes)
 * Utilize [Routr](https://github.com/fonoster/routr) where it makes sense
 * Feature parity with [FusionPBX](https://github.com/fusionpbx/fusionpbx) and allow custom add-ons
 * Create Helm charts for everything and make OperantPBX easy to install on Kubernetes with a helm file
 * Use either [Laravel Octane](https://github.com/laravel/octane) ([Swoole](https://github.com/swoole/swoole-src)) or [NGINX Unit](https://github.com/nginx/unit) to improve PHP performance
+* Create SBC system that can secure, avoid NAT issues, and auto provision devices (This will probably be a different project)
 
 ### Challenges
 
