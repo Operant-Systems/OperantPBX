@@ -1,5 +1,5 @@
 # OperantPBX
-## Cloud Native PBX built for Kubernetes
+## Cloud native PBX system built for Kubernetes
 ___
 
 ### Our Goals
@@ -41,4 +41,4 @@ The list below might seem confusing as we're claiming this is cloud native, and 
 ### How to Contribute
 
 1. Review and agree to our [contributing guidelines](CONTRIBUTING.md)
-2. Submit a PR with your changes and we'll review.
+2. Submit a PR with your changes and we'll review
