@@ -37,3 +37,8 @@ The list below might seem confusing as we're claiming this is cloud native, and 
 * [ ] Azure
 * [ ] GCP
 * [ ] OpenStack
+
+### How to Contribute
+
+1. Review and agree to our [contributing guidelines](CONTRIBUTING.md)
+2. Submit a PR with your changes and we'll review.
